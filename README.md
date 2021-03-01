@@ -18,4 +18,4 @@
 3. pip install transformers
 
 ## step4：开始模型训练
-### python main.py
+python main.py

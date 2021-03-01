@@ -13,9 +13,9 @@
 ## step3： 安装相关依赖库
 确保电脑安装好pytorch环境
 打开命令行，执行下面命令安装相关依赖库
-### pip install zipFile36
-### pip install pytorch_pretrained_bert
-### pip install transformers
+1. pip install zipFile36
+2. pip install pytorch_pretrained_bert
+3. pip install transformers
 
 ## step4：开始模型训练
 ### python main.py
